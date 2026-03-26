@@ -133,4 +133,3 @@ GitHub: https://github.com/patmolsakda/BankManagementSystem.git
 ---
 
 ⭐ If you like this project, feel free to give it a star on GitHub!
->>>>>>> 03f1a739c549e0477ea8eb488150ff46d1ec346a
